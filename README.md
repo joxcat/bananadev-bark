@@ -1,4 +1,4 @@
-# Banana.dev Bark setuo
+# Banana.dev Bark setup
 
 This is a Bark [Banana.dev](https://www.banana.dev) setup that allows on-demand serverless GPU inference.
 
