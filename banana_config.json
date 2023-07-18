@@ -1,10 +1,9 @@
 {
     "example_input": {
-        "prompt": "colorful, 1girl, high angle, software developer protagonist, hacker, ((computer screen)), matrix, ((keyboard)), glow, light particles, wallpaper, chromatic aberration",
-        "seed": 42
+        "prompt": "Hello World!"
     },
     "example_output": {
-        "output": "<base 64 image data>"
+        "output": "<base 64 wav file>"
     },
     "version": "1"
 }
